@@ -30,7 +30,7 @@ Each day focuses on one physical or control concept, implemented through code an
 |-----|--------|------|------|--------|
 | **Day 1** | Projectile Motion (No drag) | [day1_projectile.py](day1_projectile.py) | [Day1_Note.md](notes/Day1_Note.md) | — |
 | **Day 2** | Projectile with Air Resistance | [day2_projectile_comparison.py](day2_projectile_comparison.py) | [Day2_Note.md](notes/Day2_Note.md) | ![Result](images/projectile_comparison.png) |
-| **Day 3** | Coming soon... | — | — | — |
+| **Day 3** | Projectile Motion - Flight Time, Height, and Range | [day3_projectile_analysis.py](day3_projectile_analysis.py) | [Day3_Note.md] | — |
 
 ---
 
